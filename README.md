@@ -1,1 +1,1 @@
-# leetcode
+# I log my daily leetcode practice here.
