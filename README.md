@@ -1,1 +1,1 @@
-# I log my daily leetcode practice here.
+# I log my leetcode practice here.
